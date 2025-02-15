@@ -1,1 +1,1 @@
-[{"name":"Test Restaurant","address":"RestaurantStreet, RestaurantCity, 000","cuisine":"Mexican","website":"http://restaurant.com","description":"It's just awesome!"}]
+[{"id":"r1","name":"Test Restaurant","address":"RestaurantStreet, RestaurantCity, 000","cuisine":"Indian","website":"http://restaurant.com","description":"It's just awesome!"},{"name":"Finest Restaurant ","address":"FinestStreet, finestCity, 112","cuisine":"Mexian","website":"http://finest.com","description":"The food is absolutely delicious!","id":"2536839d-1e65-40b7-b8a1-9804d4fb3433"}]
